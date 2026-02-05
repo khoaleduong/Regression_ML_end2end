@@ -1,0 +1,14 @@
+artifact_uri: /Users/leduongkhoa/Regression_MachineLearning_End2End/mlruns/874463887055627814/6259344de6ed4b01a40d2f74ede99de7/artifacts
+end_time: 1770301660730
+entry_point_name: ''
+experiment_id: '874463887055627814'
+lifecycle_stage: active
+run_id: 6259344de6ed4b01a40d2f74ede99de7
+run_name: orderly-sponge-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770301643548
+status: 3
+tags: []
+user_id: leduongkhoa

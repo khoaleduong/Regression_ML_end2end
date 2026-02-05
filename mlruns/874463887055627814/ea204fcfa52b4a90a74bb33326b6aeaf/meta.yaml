@@ -1,0 +1,14 @@
+artifact_uri: /Users/leduongkhoa/Regression_MachineLearning_End2End/mlruns/874463887055627814/ea204fcfa52b4a90a74bb33326b6aeaf/artifacts
+end_time: 1770301670415
+entry_point_name: ''
+experiment_id: '874463887055627814'
+lifecycle_stage: active
+run_id: ea204fcfa52b4a90a74bb33326b6aeaf
+run_name: bold-pig-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770301660740
+status: 3
+tags: []
+user_id: leduongkhoa

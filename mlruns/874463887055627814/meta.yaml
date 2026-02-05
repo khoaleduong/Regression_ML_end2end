@@ -1,0 +1,6 @@
+artifact_location: /Users/leduongkhoa/Regression_MachineLearning_End2End/mlruns/874463887055627814
+creation_time: 1770301550497
+experiment_id: '874463887055627814'
+last_update_time: 1770301550497
+lifecycle_stage: active
+name: XGBoost_Hyperparameter_Tuning

@@ -1,0 +1,14 @@
+artifact_uri: /Users/leduongkhoa/Regression_MachineLearning_End2End/mlruns/874463887055627814/0d3c3bb7c68b483dbbfc3be64c31906e/artifacts
+end_time: 1770301565635
+entry_point_name: ''
+experiment_id: '874463887055627814'
+lifecycle_stage: active
+run_id: 0d3c3bb7c68b483dbbfc3be64c31906e
+run_name: glamorous-ray-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770301550723
+status: 3
+tags: []
+user_id: leduongkhoa

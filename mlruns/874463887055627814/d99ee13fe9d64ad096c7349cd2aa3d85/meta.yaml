@@ -1,0 +1,14 @@
+artifact_uri: /Users/leduongkhoa/Regression_MachineLearning_End2End/mlruns/874463887055627814/d99ee13fe9d64ad096c7349cd2aa3d85/artifacts
+end_time: 1770301896570
+entry_point_name: ''
+experiment_id: '874463887055627814'
+lifecycle_stage: active
+run_id: d99ee13fe9d64ad096c7349cd2aa3d85
+run_name: secretive-ox-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770301829821
+status: 3
+tags: []
+user_id: leduongkhoa
