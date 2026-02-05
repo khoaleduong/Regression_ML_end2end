@@ -1,2 +1,5 @@
 # Datasets (raw + processed)
 data/
+
+# Models
+mlrums/
